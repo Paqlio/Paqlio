@@ -5,6 +5,10 @@
 </center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
 
+📊 ┆ Statistics
+
+
+
 - 🌱 I’m currently learning **Java,JS**
 
 <h3 align="left">Connect with me:</h3>
