@@ -3,13 +3,13 @@
 <center>
 <image src=https://discord.c99.nl/widget/theme-1/709888532226899989.png> </image>
 </center>
+
+
+<h3 align="left">📊 ┆ Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
 
-📊 ┆ Statistics
-<img src="https://camo.githubusercontent.com/f308f68b6d1e2a64e27ad3baa55e93ab347dec478dee5c06af564bd6cd86b8de/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f3f757365726e616d653d694e79617469782673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d697473267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/?username=DreamPaqlio&amp;show_icons=true&amp;include_all_commits&amp;theme=dracula" style="max-width: 100%;" align="middle">
 
-
-📌 ┆ Current projects
+<h3 align="left">📌 ┆ Current projects</h3>
 » （👀） Soon...
 
 <h3 align="left">Connect with me:</h3>
