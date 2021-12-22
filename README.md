@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul "Paqlio"</h1>
 <h3 align="center">noob programmer from Poland</h3>
+https://discord.c99.nl/widget/theme-1/709888532226899989.png
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
 
