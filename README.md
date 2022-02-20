@@ -6,5 +6,5 @@
 
 
 <h3 align="left">📊 ┆ Statistics</h3>
-[![Paqlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamPaqlio)](https://github.com/dreampaqlio/github-readme-stats)
+[![Paqlio's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreampaqlio)](https://github.com/dreampaqlio/github-readme-stats)
  
