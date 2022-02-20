@@ -6,5 +6,5 @@
 
 
 <h3 align="left">📊 ┆ Statistics</h3>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/DreamPaqlio/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=DreamPaqlio&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
  
