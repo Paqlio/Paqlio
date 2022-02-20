@@ -7,5 +7,8 @@
 
 <h3 align="left">📊 ┆ Statistics</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DreamPaqlio)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DreamPaqlio&show_icons=true)  
+
 ![Profile views](https://gpvc.arturio.dev/DreamPaqlio)  
