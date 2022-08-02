@@ -11,7 +11,7 @@
 </div>
 
 ### Contact:
-<a href="https://discord.gg/C8dF6zkYff" align="left">
+<a href="dc.minesushi.pl" align="left">
   <img src="https://discord.com/api/guilds/947281798235303936/widget.png?style=banner2"></a>
 </a>
 
