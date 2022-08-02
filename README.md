@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Paul "Paqlio"</h1>
-<h3 align="center">noob programmer from Poland</h3>
-<center>
-</center>
+<h1 align="center">Hi 👋, I'm Paqlio</h1>
+<h3 align="center">Noob programmer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
 
-<h3 align="left">📊 ┆ Statistics</h3>
-<img src=https://github-readme-stats.vercel.app/api?username=Paqlio&&show_icons=true&title_color=ffffff&icon_color=24ff00&text_color=daf7dc&bg_color=151515>
-📌 ┆ Current projects
-⛏️ -> minesushi
-🧠 ┆ Languages
-<img src=https://camo.githubusercontent.com/19f686ee7be9e84e002135a16411658939d431a3f6c7f513498ff2d1e511b5b9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465>
- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/paqlio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paqlio" height="30" width="40" /></a>
+<a href="https://discord.gg/dc.minesushi.pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dc.minesushi.pl" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paqlio&show_icons=true&locale=en" alt="paqlio" /></p>
