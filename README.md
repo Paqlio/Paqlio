@@ -1,15 +1,20 @@
-<h1 align="center">Hi 👋, I'm Paqlio</h1>
-<h3 align="center">Noob programmer</h3>
+## Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paqlio&label=Profile%20views&color=0e75b6&style=flat" alt="paqlio" /> </p>
+### Languages:
+<div>
+  <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/java_original_logo_icon_146458.png">
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/paqlio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="paqlio" height="30" width="40" /></a>
-<a href="https://discord.gg/dc.minesushi.pl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dc.minesushi.pl" height="30" width="40" /></a>
-</p>
+### Tools:
+<div>
+  <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png">
+  <img height="48" width="48" src="https://cdn.icon-icons.com/icons2/195/PNG/256/Visual_Studio_23517.png">
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+### Contact:
+<a href="https://discord.gg/C8dF6zkYff" align="left">
+  <img src="https://discord.c99.nl/widget/theme-4/827983599251882027.png" align="right">
+  <img src="https://discord.com/api/guilds/908864960698921000/widget.png?style=banner2"></a>
+</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paqlio&show_icons=true&locale=en" alt="paqlio" /></p>
