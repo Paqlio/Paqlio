@@ -1,5 +1,5 @@
 # Hi there 👋😎
-#### My name is Paul 
+#### My name is Paweł
  Beginner developer from Poland
 
 
